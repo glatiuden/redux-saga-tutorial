@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work Income",
+      "value": 1000,
+      "isExpense": false
+    },
+    {
+      "id": 2,
+      "description": "Water Bill",
+      "value": 20,
+      "isExpense": true
+    },
+    {
+      "id": 3,
+      "description": "Rent",
+      "value": 100,
+      "isExpense": true
+    },
+    {
+      "id": 4,
+      "description": "Power Bill",
+      "value": 50,
+      "isExpense": true
+    },
+    {
+      "id": "7d77bd02-6cf0-45c2-80f6-7d1ab1d37dd7",
+      "description": "Allowance",
+      "value": "51",
+      "isExpense": false
+    }
+  ]
+}
